@@ -27,3 +27,7 @@ Contains:
   https://containers.dev/
 * Dev Container Features repository  
   https://github.com/devcontainers/features/tree/main/src
+
+###
+
+Demo using git from container
